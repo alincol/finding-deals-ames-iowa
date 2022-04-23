@@ -2,7 +2,7 @@
 
 ### Problem Statement 
 
-A lovely older couple, Joan and Janice Smith, have decided to purchase a second home in Ames, Iowa, and need help determining which homes would be best for them. Unlike your typical homebuyer, Joan and Janice's main constraints are that they want a home with better privacy, especially a back yard they can spend time in unbothered. I will use linear regression to narrow down a large set of sale data into good and great deals, which can then be used to determine if any house they find currently for sale in Ames is a good deal or not.
+A lovely older couple, Joan and Janice Smith, have decided to purchase a second home in Ames, Iowa, and need help determining which homes would be best for them. Unlike your typical homebuyer, Joan and Janice's main constraints are that they want a home with better privacy that they can visit and be unbothered. I will use linear regression to narrow down a large set of sale data into good and great deals, which can then be used to determine if any house they find currently for sale in Ames is a good deal or not.
 
 ### Dataset
 
